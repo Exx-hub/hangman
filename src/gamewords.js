@@ -1,0 +1,26 @@
+const gamewords = [
+  "alvin",
+  "react",
+  "developer",
+  "frontend",
+  "kdrama",
+  "dota",
+  "basketball",
+  "corona",
+  "pandemic",
+  "programming",
+  "deadlifts",
+  "jumprope",
+  "facebook",
+  "sriracha",
+  "condo",
+  "anxiety",
+  "depression",
+  "success",
+  "resiliency",
+  "perseverance",
+  "future",
+  "contingency",
+];
+
+export default gamewords;
